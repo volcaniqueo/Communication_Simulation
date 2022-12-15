@@ -4,8 +4,10 @@ This project was my 1st Homework for the course CMPE 160 (Introduction to Object
 Since it was our first assignment regarding object oriented paradigm, assignment is straightforward but essential. I implemented a very basic version of communication simulation. The classes, methods and the input / output format is explained in detail (in the description). I followed object oriented design principles.
 ## To Run the Code
 First compile using:
-```javac CMPE160_HW1_volcaniqueo/src/question/*.java -d CMPE160_HW1_volcanique/bin````
+```javac CMPE160_HW1_volcaniqueo/src/question/*.java -d CMPE160_HW1_volcanique/bin```
+
 Then move onto bin:
-```cd bin````
+```cd bin```
+
 Finally run using arguments:
 ```java question/Main <input_file> <output_file>```
