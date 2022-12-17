@@ -7,7 +7,7 @@ First compile using:
 ```javac CMPE160_HW1_volcaniqueo/src/question/*.java -d CMPE160_HW1_volcanique/bin```
 
 Then move onto bin:
-```cd bin```
+```cd CMPE160_HW1_volcaniqueo/bin```
 
 Finally run using arguments:
 ```java question/Main <input_file> <output_file>```
